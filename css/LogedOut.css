@@ -1,0 +1,16 @@
+
+.loggedOutHome-wrapper-outer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url("../bg1.jpg");
+    height: 100vh;
+    width: 100vw;
+}
+.loggedOutHome-wrapper-inner {
+    text-align: center;
+}
+.loggedOutHome-MainHeader {
+    color: #fff;
+    font-size: 99pt;
+}
